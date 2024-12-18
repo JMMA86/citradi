@@ -1,0 +1,14 @@
+{
+  "total_original_articles": 1147,
+  "unique_original_articles": 190,
+  "total_reclassified_entries": 1185,
+  "unique_reclassified_articles": 189,
+  "theme_counts": {
+    "Seguridad, privacidad, datos personales, regulaci\u00f3n": 989,
+    "Derechos humanos, Inclusi\u00f3n, discriminaci\u00f3n, social, impacto": 102,
+    "Risks": 39,
+    "Beneficios y usos": 34,
+    "Transparencia, datos input": 18,
+    "HumanoM\u00e1quina": 3
+  }
+}
