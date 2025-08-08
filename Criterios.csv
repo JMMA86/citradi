@@ -1,91 +1,131 @@
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-T1,"=== Inclusive growth, sustainable development and well-being ===",T1,T2,T3,T4,T5,T6,T7,T8,T9,T10,T11,T12,T13,T14
-,- economic impact,,,,,,,,,,,,,,
-,- environmental impact,,,,,,,,,,,,,,
-,- inequality,,,,,,,,,,,,,,
-,- innovation in sustainability,,,,,,,,,,,,,,
-,- job displacement,,,,,,,,,,,,,,
-,- social impact,,,,,,,,,,,,,,
-,- sustainability,,,,,,,,,,,,,,
-,- well-being,,,,,,,,,,,,,,
-T2,"=== Human rights and democratic values, including fairness and privacy ==='=== Fairness and non-discrimination ===",,,,,,,,,,,,,,
-,- discrimination,,,,,,,,,,,,,,
-,- equality,,,,,,,,,,,,,,
-,- exclusion,,,,,,,,,,,,,,
-,- fairness,,,,,,,,,,,,,,
-,- fundamental rights,,,,,,,,,,,,,,
-,- human rights,,,,,,,,,,,,,,
-,- inclusion,,,,,,,,,,,,,,
-,- non-discrimination,,,,,,,,,,,,,,
-T3,=== Transparency and explainability ===,,,,,,,,,,,,,,
-,"- ""algorithmic bias""",,,,,,,,,,,,,,
-,"- ""black box"" ""black-box""",,,,,,,,,,,,,,
-,"- ""data governance""",,,,,,,,,,,,,,
-,"- ""open data""",,,,,,,,,,,,,,
-,- explainability,,,,,,,,,,,,,,
-,- interpretability,,,,,,,,,,,,,,
-,- opacity,,,,,,,,,,,,,,
-,- transparency,,,,,,,,,,,,,,
-T4,"=== Robustness, security and safety === === Right to privacy and data protection ====== Security and safety ===",,,,,,,,,,,,,,
-,- adversarial attacks,,,,,,,,,,,,,,
-,- confidentiality,,,,,,,,,,,,,,
-,- cybersecurity,,,,,,,,,,,,,,
-,- data breaches,,,,,,,,,,,,,,
-,- data protection,,,,,,,,,,,,,,
-,- privacy,,,,,,,,,,,,,,
-,- reliability,,,,,,,,,,,,,,
-,- resilience,,,,,,,,,,,,,,
-,- robustness,,,,,,,,,,,,,,
-,- safety,,,,,,,,,,,,,,
-,- security,,,,,,,,,,,,,,
-T5,=== Accountability ===. '=== Adaptive and multi-stakeholder governance and collaboration ===,,,,,,,,,,,,,,
-,- accountability,,,,,,,,,,,,,,
-,- auditing,,,,,,,,,,,,,,
-,- collaboration,,,,,,,,,,,,,,
-,- due diligence,,,,,,,,,,,,,,
-,- ethic*,,,,,,,,,,,,,,
-,- governance,,,,,,,,,,,,,,
-,- impact assessment,,,,,,,,,,,,,,
-,- liability,,,,,,,,,,,,,,
-,- multi-stakeholder,,,,,,,,,,,,,,
-,- policy,,,,,,,,,,,,,,
-,- regulation,,,,,,,,,,,,,,
-,- responsibility,,,,,,,,,,,,,,
-T6,=== Human oversight and determination ===,,,,,,,,,,,,,,
-,- autonomy,,,,,,,,,,,,,,
-,- Critical thinking,,,,,,,,,,,,,,
-,- decision making ,,,,,,,,,,,,,,
-,- human control,,,,,,,,,,,,,,
-,- human intervention,,,,,,,,,,,,,,
-,- human oversight,,,,,,,,,,,,,,
-,- human-in-the-loop,,,,,,,,,,,,,,
-T7,=== Awareness-raising and education ===,,,,,,,,,,,,,,
-,- awareness,,,,,,,,,,,,,,
-,- education,,,,,,,,,,,,,,
-,- literacy,,,,,,,,,,,,,,
-,- public understanding,,,,,,,,,,,,,,
-T8,=== Risks,,,,,,,,,,,,,,
-,- bias,,,,,,,,,,,,,,
-,- Bias mitigation,,,,,,,,,,,,,,
-,- hallucinations,,,,,,,,,,,,,,
-,- misinformation,,,,,,,,,,,,,,
-,- professional biases,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,704,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-T4,,,,,,,,,,,,,,,
-T4,,,,,,,,,,,,,,,
-T5,=== Accountability ===. '=== Adaptive and multi-stakeholder governance and collaboration ===,,,,,,,,,,,,,,
-T7,=== Awareness-raising and education ===,,,,,,,,,,,,,,
-T6,=== Human oversight and determination ===,,,,,,,,,,,,,,
-T2,"=== Human rights and democratic values, including fairness and privacy ==='=== Fairness and non-discrimination ===",,,,,,,,,,,,,,
-T8,=== Risks,,,,,,,,,,,,,,
-T4,"=== Robustness, security and safety === === Right to privacy and data protection ====== Security and safety ===",,,,,,,,,,,,,,
-T3,=== Transparency and explainability ===,,,,,,,,,,,,,,
-T1,"- Inclusive growth, sustainable development and well-being",,,,,,,,,,,,,,
+T1;=== Privacy ===
+;- authorization
+;- confidentiality
+;- consent
+;- data breach
+;- data collection
+;- data gathering
+;- data governance
+;- data harvesting
+;- data ownership
+;- data privacy
+;- data protection
+;- data retention
+;- data rights
+;- data safeguarding
+;- data security
+;- data sharing
+;- data stewardship
+;- data storage
+;- data transfer
+;- data usage
+;- data utilization
+;- explicit permission
+;- individual data
+;- information archiving
+;- information control
+;- information exchange
+;- information governance
+;- information leak
+;- information privacy
+;- information security
+;- personal data
+;- privacy
+;- privacy compliance
+;- privacy enforcement
+;- private data
+;- regulatory adherence
+;- surveillance
+;- tracking
+;- user confidentiality
+;- user consent
+;- user data
+;- user privacy
+T2;=== Copyright ===
+;- academic use
+;- acknowledgement
+;- attribution
+;- CC licenses
+;- citation
+;- closed source
+;- content control
+;- content license
+;- copy protection
+;- copyright
+;- copyrighted
+;- copyrigthing
+;- copyright infringement
+;- copyright law
+;- creative commons
+;- derivative work
+;- duplication rights
+;- fair dealing
+;- fair use
+;- intellectual property
+;- IP license
+;- licenses
+;- IP right
+;- rigths
+;- license fee
+;- fees
+;- licensing
+;- limited use exemption
+;- non-commercial use
+;- owned content
+;- personal use
+;- plagiarism
+;- proprietary
+;- public domain
+;- referencing
+;- remix
+;- reproduction rights
+;- royalty
+;- royalies
+;- terms and conditions
+;- terms of use
+T3;=== Legal Context ===
+;- CCPA
+;- California Consumer Privacy Act
+;- cease and desist
+;- class action
+;- copyright claim
+;- court ruling
+;- DMCA claim
+;- DMCA
+;- Digital Millennium Copyright Act
+;- DRM
+;- Digital Rights Management
+;- GDPR
+;- General Data Protection Regulation
+;- infringement claim
+;- IP claim
+;- law adherence
+;- mass action
+;- regulatory compliance
+;- regulatory fine
+;- sanction
+;- settlement
+;- legal proceeding
+;- legal proceedings
+;- legal objection
+;- legal notice
+;- legal matter
+;- legal matters
+;- legal dispute
+;- legal disputes
+;- legal compliance
+;- legal challenge
+;- legal challenges
+;- legal case
+;- legal cases
+;- legal battle
+;- legal battles
+;- legal action
+;- legal actions
+;- lawsuit
+;- lawsuits
+;- litigation
+;- court case
+;- court cases
+;- tribunal case
+;- tribunal cases
